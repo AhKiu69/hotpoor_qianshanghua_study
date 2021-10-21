@@ -21,8 +21,6 @@ def make_app():
     ])
 
 
-port = 8888
-
 if __name__ == "__main__":
     a = sys.argv
     b = a[1:]
